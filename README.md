@@ -12,3 +12,4 @@ Style= "display: none;"
 {% endif %}
 thumbnail-alt='{{media.alt}}'
 ```
+## 3. add tag to images into you product media images
