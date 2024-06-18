@@ -1,4 +1,4 @@
-Update your global.js file
+```Update your global.js file
 ## find onVariantChange()
  -- Add below line of code just above
 "if(!this.currentVariant)"
@@ -17,4 +17,4 @@ filterImgVariant() {
       document.querySelectorAll('[thumbnail-alt]').forEach(img => img.style.display = 'block')
   }
 } 
-```
+
