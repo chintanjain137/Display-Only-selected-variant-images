@@ -12,4 +12,4 @@ Style= "display: none;"
 {% endif %}
 thumbnail-alt='{{media.alt}}'
 ```
-## 3. add tag to images into you product media images
+## 3. add tag to images into you product media images ``` alt text``` to get image variant according to it 
